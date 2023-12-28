@@ -1,5 +1,14 @@
 ### Hi, I'm Ilhom Khaitov   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
+
+I leave my work here <br />
+I am currently learning Fronted programming <br />
+
+### Languages and tools I work with:
+
+<code>
+  <img srs="https://e7.pngegg.com/pngimages/840/443/png-clipart-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text-thumbnail.png" width="40px"/>
+</code>
 <!--
 **Khaitov-Ilkhom/Khaitov-Ilkhom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
