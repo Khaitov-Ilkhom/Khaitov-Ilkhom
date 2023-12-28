@@ -8,7 +8,8 @@ I am currently learning Fronted programming <br />
 
 <code><img src="https://thumbs.dreamstime.com/z/html-icon-trendy-flat-vector-white-background-fr-technology-collection-illustration-can-be-use-web-mobile-eps-130325729.jpg?ct=jpeg" width="60px"/></code>
 <code><img src="https://thumbs.dreamstime.com/z/css-icon-trendy-flat-vector-white-background-technology-collection-illustration-can-be-use-web-mobile-eps-130325734.jpg?ct=jpeg" width="60px"/></code>
-<code><img src="https://static-00.iconduck.com/assets.00/sass-icon-2048x1536-nyl4dxbm.png" height="40px"/></code>
+<code><img src="https://thumbs.dreamstime.com/z/bootstrap-free-open-source-css-framework-directed-responsive-mobile-first-front-end-web-development-contains-css-208075223.jpg?ct=jpeg" width="60px"/></code>
+<code><img src="[https://static-00.iconduck.com/assets.00/sass-icon-2048x1536-nyl4dxbm.png](https://thumbs.dreamstime.com/z/sass-logo-icon-vector-logos-logo-icons-set-social-media-flat-banner-vectors-svg-eps-jpg-jpeg-emblem-wallpaper-background-sass-logo-208332857.jpg?ct=jpeg)" width="60px"/></code>
 <code><img src="https://thumbs.dreamstime.com/z/java-script-icon-vector-isolated-white-background-logo-conce-java-script-icon-vector-isolated-white-background-logo-concept-125792458.jpg?ct=jpeg" width="60px"/></code>
 <!--
 **Khaitov-Ilkhom/Khaitov-Ilkhom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
