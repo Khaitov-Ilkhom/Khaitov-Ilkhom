@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Ilhom Khaitov   <img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e479iaruqcyymavzj4s79ebg8t6tlebxtnmvj40luey&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px">
 
 <!--
 **Khaitov-Ilkhom/Khaitov-Ilkhom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
