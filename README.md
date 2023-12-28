@@ -6,10 +6,10 @@ I am currently learning Fronted programming <br />
 
 ### Languages and tools I work with:
 
-<code><img src="https://thumbs.dreamstime.com/z/html-icon-trendy-flat-vector-white-background-fr-technology-collection-illustration-can-be-use-web-mobile-eps-130325729.jpg?ct=jpeg" width="40px"/></code>
-<code><img src="https://thumbs.dreamstime.com/z/css-icon-trendy-flat-vector-white-background-technology-collection-illustration-can-be-use-web-mobile-eps-130325734.jpg?ct=jpeg" width="40px"/></code>
+<code><img src="https://thumbs.dreamstime.com/z/html-icon-trendy-flat-vector-white-background-fr-technology-collection-illustration-can-be-use-web-mobile-eps-130325729.jpg?ct=jpeg" width="60px"/></code>
+<code><img src="https://thumbs.dreamstime.com/z/css-icon-trendy-flat-vector-white-background-technology-collection-illustration-can-be-use-web-mobile-eps-130325734.jpg?ct=jpeg" width="60px"/></code>
 <code><img src="https://static-00.iconduck.com/assets.00/sass-icon-2048x1536-nyl4dxbm.png" height="40px"/></code>
-<code><img src="https://banner2.cleanpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" width="40px"/></code>
+<code><img src="https://thumbs.dreamstime.com/z/java-script-icon-vector-isolated-white-background-logo-conce-java-script-icon-vector-isolated-white-background-logo-concept-125792458.jpg?ct=jpeg" width="60px"/></code>
 <!--
 **Khaitov-Ilkhom/Khaitov-Ilkhom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
