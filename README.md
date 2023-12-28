@@ -2,7 +2,7 @@
 
 
 I leave my work here <br />
-I am currently learning Fronted programming <br />
+I am currently learning Front-End programming <br />
 
 ### Languages and tools I work with:
 
