@@ -6,7 +6,7 @@ I am currently learning Fronted programming <br />
 
 ### Languages and tools I work with:
 
-<code><img srs="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-file-html-logo-black-svg-wikimedia-commons-1.png" width="40px"/></code>
+<code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-features-flexvdi-5.png" width="40px"/></code>
 <!--
 **Khaitov-Ilkhom/Khaitov-Ilkhom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
