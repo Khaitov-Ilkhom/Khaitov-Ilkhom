@@ -12,18 +12,6 @@ I am a passionate **Front-End Developer** dedicated to building responsive and i
 
 ---
 
-### 🚀 My Projects
-Here are some of my notable projects:
-1. **Portfolio Website**  
-   A fully responsive personal portfolio showcasing my skills and projects.  
-   🔗 [View Live](https://example.com) | [Source Code](https://github.com/username/portfolio)
-
-2. **E-Commerce Store**  
-   A React.js-based e-commerce web application with a functional cart and payment system.  
-   🔗 [View Live](https://example.com) | [Source Code](https://github.com/username/ecommerce)
-
----
-
 ### ⏱ My Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
