@@ -1,5 +1,8 @@
 ### Hi, I'm Ilhom Khaitov   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
+### 📊 Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 I leave my work here <br />
 I am currently learning Front-End programming <br />
