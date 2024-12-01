@@ -1,7 +1,7 @@
 ### ⏱ My Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-![WakaTime Stats](https://wakatime.com/badge/user/<YOUR_USER_ID>.svg)
+![WakaTime Badge](https://wakatime.com/badge/user/29894bb0-3f0f-47c1-bfb3-596db6fab556.svg)
 
 ### Hi, I'm Ilhom Khaitov   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
