@@ -1,3 +1,49 @@
+# 👋 Hi, I'm Ilhom Khaitov
+
+I am a passionate **Front-End Developer** dedicated to building responsive and interactive web applications. My main focus is on crafting beautiful user interfaces and seamless user experiences.
+
+---
+
+### 🛠️ Skills & Tools
+- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks/Libraries**: React.js, Next.js, Tailwind CSS, Bootstrap
+- **Tools**: Git, GitHub, VS Code, Figma
+- **Currently Learning**: React Native, Node.js
+
+---
+
+### 🚀 My Projects
+Here are some of my notable projects:
+1. **Portfolio Website**  
+   A fully responsive personal portfolio showcasing my skills and projects.  
+   🔗 [View Live](https://example.com) | [Source Code](https://github.com/username/portfolio)
+
+2. **E-Commerce Store**  
+   A React.js-based e-commerce web application with a functional cart and payment system.  
+   🔗 [View Live](https://example.com) | [Source Code](https://github.com/username/ecommerce)
+
+---
+
+### ⏱ My Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### 📫 Get in Touch
+- **Email**: ilhomkhaitov@example.com  
+- **LinkedIn**: [Ilhom Khaitov](https://linkedin.com/in/ilhomkhaitov)  
+- **Portfolio**: [ilhomkhaitov.dev](https://ilhomkhaitov.dev)
+
+---
+
+### 🌟 Fun Fact
+When I'm not coding, you can find me exploring the latest tech trends or enjoying a good book on software development.
+
+
+
+
+
 ### ⏱ My Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
