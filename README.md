@@ -9,8 +9,8 @@ I am a passionate **Front-End Developer** dedicated to building responsive and i
 ### 🛠️ Skills & Tools
 - **Languages**: HTML, CSS, JavaScript, TypeScript
 - **Frameworks/Libraries**: React.js, Next.js, Tailwind CSS, Bootstrap
-- **Tools**: Git, GitHub, VS Code, Figma
-- **Currently Learning**: React Native, Node.js
+- **Tools**: Git, GitHub, WebStorm, Figma
+- **Currently Learning**: Node.js
 
 ---
 
@@ -19,31 +19,13 @@ I am a passionate **Front-End Developer** dedicated to building responsive and i
 <!--END_SECTION:waka-->
 
 ---
-
+### 🌟 Fun Fact
+When I'm not coding, you can find me exploring the latest tech trends or enjoying a good book on software development.
 <!-- ### 📫 Get in Touch
 - **Email**: ilhomkhaitov@example.com  
 - **LinkedIn**: [Ilhom Khaitov](https://linkedin.com/in/ilhomkhaitov)  
 - **Portfolio**: [ilhomkhaitov.dev](https://ilhomkhaitov.dev)
 
----
-
-### 🌟 Fun Fact
-When I'm not coding, you can find me exploring the latest tech trends or enjoying a good book on software development.
-
-
-
-
-
-### ⏱ My Coding Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!-- ### Hi, I'm Ilhom Khaitov 
-
-I leave my work here <br />
-I am currently learning Front-End programming <br /> -->
-
-<!--
 **Khaitov-Ilkhom/Khaitov-Ilkhom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
