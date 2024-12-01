@@ -1,19 +1,16 @@
-# This is a test file
-name: WakaTime Stats Update
+name: Update WakaTime Stats
 
-# Qachon ishga tushishini belgilash
 on:
   schedule:
-    - cron: '0 0 * * *' # Har kuni tunda (00:00 UTC) ishga tushadi
+    - cron: '0 0 * * *' # Har kuni soat 00:00 da ishlaydi
   workflow_dispatch: # Qo'lda ishga tushirish uchun
 
-# Vazifalar ro'yxati
 jobs:
-  update-stats:
+  update-waka:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository # Repository kodini yuklab olish
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Update WakaTime Stats
