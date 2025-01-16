@@ -12,9 +12,9 @@ I am a passionate **Front-End Developer** dedicated to building responsive and i
 - **Tools**: Git, GitHub, WebStorm, Figma
 - **Currently Learning**: Node.js, MongoDB
 
-<-- --- -->
+<!-- --- -->
 
-<-- ### ⏱ My Coding Stats -->
+<!-- ### ⏱ My Coding Stats -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
