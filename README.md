@@ -1,6 +1,6 @@
 ![WakaTime Badge](https://wakatime.com/badge/user/29894bb0-3f0f-47c1-bfb3-596db6fab556.svg)
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> <p align="center">Hi, I'm Ilhom Khaitov</p> 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Ilhom Khaitov
 
 I am a passionate **Front-End Developer** dedicated to building responsive and interactive web applications. My main focus is on crafting beautiful user interfaces and seamless user experiences.
 
