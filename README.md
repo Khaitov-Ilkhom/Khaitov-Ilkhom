@@ -8,7 +8,7 @@ I am a passionate **Front-End Developer** dedicated to building responsive and i
 
 ### 🛠️ Skills & Tools
 - **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries**: React.js, Next.js, Tailwind CSS, Bootstrap, Antd Design, Shadcn UI, Tanstack Query, Zustand
+- **Frameworks/Libraries**: React.js, Next.js, Tailwind CSS, Bootstrap, Antd Design, Shadcn UI, Tanstack Query, Zustand, Redux
 - **Tools**: Git, GitHub, WebStorm, Figma
 - **Currently Learning**: Node.js, MongoDB
 
