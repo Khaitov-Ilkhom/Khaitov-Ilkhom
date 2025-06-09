@@ -17,25 +17,10 @@ I am a passionate **Front-End Developer** dedicated to building responsive and i
 <!--END_SECTION:waka-->
 
 ---
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-
-<div>
-
 ### 🌟 Fun Fact
 When I'm not coding, you can find me exploring the latest tech trends or enjoying a good book on software development.
 
-</div>
-
-<div>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaitov-Ilkhom&layout=compact" />
-
-</div>
-
-</div>
-
-<!-- ### 🌟 Fun Fact
-When I'm not coding, you can find me exploring the latest tech trends or enjoying a good book on software development. -->
 
 <!-- ### 📫 Get in Touch
 - **Email**: ilhomkhaitov@example.com  
@@ -45,7 +30,6 @@ When I'm not coding, you can find me exploring the latest tech trends or enjoyin
 **Khaitov-Ilkhom/Khaitov-Ilkhom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -53,5 +37,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
