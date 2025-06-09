@@ -12,15 +12,31 @@ I am a passionate **Front-End Developer** dedicated to building responsive and i
 - **Tools**: Git, GitHub, WebStorm, Figma
 - **Currently Learning**: Node.js, MongoDB
 
-<!-- --- -->
-
 <!-- ### ⏱ My Coding Stats -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
+<div style="display: flex; align-items: center; gap: 20px;">
+
+<div>
+
 ### 🌟 Fun Fact
 When I'm not coding, you can find me exploring the latest tech trends or enjoying a good book on software development.
+
+</div>
+
+<div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaitov-Ilkhom&layout=compact" />
+
+</div>
+
+</div>
+
+<!-- ### 🌟 Fun Fact
+When I'm not coding, you can find me exploring the latest tech trends or enjoying a good book on software development. -->
+
 <!-- ### 📫 Get in Touch
 - **Email**: ilhomkhaitov@example.com  
 - **LinkedIn**: [Ilhom Khaitov](https://linkedin.com/in/ilhomkhaitov)  
@@ -39,7 +55,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaitov-Ilkhom&layout=compact)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=khaitov_ilkhom)](https://github.com/anuraghazra/github-readme-stats)
