@@ -42,6 +42,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaitov-Ilkhom&layout=compact)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khaitov-Ilkhom&show_icons=true&locale=en&layout=compact" alt="Khaitov-Ilkhom" />
-</p>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ilhom Xaitov - N10 POWER)](https://github.com/anuraghazra/github-readme-stats)
