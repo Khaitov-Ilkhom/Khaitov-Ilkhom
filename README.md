@@ -17,7 +17,7 @@ I am a passionate **Front-End Developer** dedicated to building responsive and i
 <!--END_SECTION:waka-->
 
 ---
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
 
 <div>
 
