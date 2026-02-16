@@ -16,7 +16,7 @@ I am a passionate **Front-End Developer** dedicated to building responsive and i
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
----
+<!---
 ### 🌟 Fun Fact
 When I'm not coding, you can find me exploring the latest tech trends or enjoying a good book on software development.
 
